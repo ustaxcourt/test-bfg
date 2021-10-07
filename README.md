@@ -11,7 +11,6 @@ Here's what we're going to do:
 - [ ] remove unwanted files
   - [x] removed api key
   - [ ] remove images
-  - [ ] 
 - [ ] clean the repo up to remove blobs bigger than 1MB
 - [ ] clean the repo up to remove the fake api key
 - [ ] see how the forks can merge back into the main repository?
