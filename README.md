@@ -8,7 +8,7 @@ Here's what we're going to do:
 - [x] make some commits in that repo with a fake api key
 - [x] put a 5meg file in there
 - [x] fork the repo
-- [x] remove the 5 meg file
+- [ ] remove the 5 meg file
 - [ ] clean the repo up to remove blobs bigger than 1MB
 - [ ] clean the repo up to remove the fake api key
 - [ ] see how the forks can merge back into the main repository?
